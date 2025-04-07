@@ -83,4 +83,6 @@ struct binary_tree_s
 	/* Task 18 */
 	binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
+	void binary_tree_print(const binary_tree_t *);
+
 #endif
