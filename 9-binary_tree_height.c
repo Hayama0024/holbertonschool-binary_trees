@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  *binary_tree_height - display the height of the tree
- *
+ *@tree: the tree we want to display
  * Return: the left or the right height
  */
 
